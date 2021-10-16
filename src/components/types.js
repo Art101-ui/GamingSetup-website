@@ -1,0 +1,7 @@
+export const ADD_BASICFORM = 'ADD_BASICFORM'
+export const ADD_MEDIUMFORM = 'ADD_MEDIUMFORM'
+export const ADD_ADVANCEDFORM = 'ADD_ADVANCEDFORM'
+export const BASIC_ERROR = 'BASIC_ERROR'
+export const CLEAR_FIELDS = 'CLEAR_FIELDS'
+export const SET_ALERT = 'SET_ALERT'
+export const REMOVE_ALERT = 'REMOVE_ALERT'
